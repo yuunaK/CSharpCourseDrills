@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\WritingToLogDrill\WritingToLogDrill\bin\Debug\WritingToLogDrill.exe.config
+C:\Users\yk123\documents\visual studio 2015\Projects\WritingToLogDrill\WritingToLogDrill\obj\Debug\WritingToLogDrill.csprojResolveAssemblyReference.cache
+C:\Users\yk123\documents\visual studio 2015\Projects\WritingToLogDrill\WritingToLogDrill\bin\Debug\WritingToLogDrill.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\WritingToLogDrill\WritingToLogDrill\bin\Debug\WritingToLogDrill.pdb
+C:\Users\yk123\documents\visual studio 2015\Projects\WritingToLogDrill\WritingToLogDrill\obj\Debug\WritingToLogDrill.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\WritingToLogDrill\WritingToLogDrill\obj\Debug\WritingToLogDrill.pdb

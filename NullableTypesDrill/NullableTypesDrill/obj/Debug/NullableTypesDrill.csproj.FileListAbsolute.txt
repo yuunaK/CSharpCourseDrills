@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\NullableTypesDrill\NullableTypesDrill\bin\Debug\NullableTypesDrill.exe.config
+c:\users\yk123\documents\visual studio 2015\Projects\NullableTypesDrill\NullableTypesDrill\bin\Debug\NullableTypesDrill.exe
+c:\users\yk123\documents\visual studio 2015\Projects\NullableTypesDrill\NullableTypesDrill\bin\Debug\NullableTypesDrill.pdb
+c:\users\yk123\documents\visual studio 2015\Projects\NullableTypesDrill\NullableTypesDrill\obj\Debug\NullableTypesDrill.csprojResolveAssemblyReference.cache
+c:\users\yk123\documents\visual studio 2015\Projects\NullableTypesDrill\NullableTypesDrill\obj\Debug\NullableTypesDrill.exe
+c:\users\yk123\documents\visual studio 2015\Projects\NullableTypesDrill\NullableTypesDrill\obj\Debug\NullableTypesDrill.pdb

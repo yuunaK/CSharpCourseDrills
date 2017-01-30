@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\KeywordthisDrill\KeywordthisDrill\bin\Debug\KeywordthisDrill.exe.config
+c:\users\yk123\documents\visual studio 2015\Projects\KeywordthisDrill\KeywordthisDrill\bin\Debug\KeywordthisDrill.exe
+c:\users\yk123\documents\visual studio 2015\Projects\KeywordthisDrill\KeywordthisDrill\bin\Debug\KeywordthisDrill.pdb
+c:\users\yk123\documents\visual studio 2015\Projects\KeywordthisDrill\KeywordthisDrill\obj\Debug\KeywordthisDrill.csprojResolveAssemblyReference.cache
+c:\users\yk123\documents\visual studio 2015\Projects\KeywordthisDrill\KeywordthisDrill\obj\Debug\KeywordthisDrill.exe
+c:\users\yk123\documents\visual studio 2015\Projects\KeywordthisDrill\KeywordthisDrill\obj\Debug\KeywordthisDrill.pdb

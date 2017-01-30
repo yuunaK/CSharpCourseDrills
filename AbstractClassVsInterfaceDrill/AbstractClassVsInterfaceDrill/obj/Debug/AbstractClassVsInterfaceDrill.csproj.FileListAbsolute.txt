@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\AbstractClassVsInterfaceDrill\AbstractClassVsInterfaceDrill\bin\Debug\AbstractClassVsInterfaceDrill.exe.config
+C:\Users\yk123\documents\visual studio 2015\Projects\AbstractClassVsInterfaceDrill\AbstractClassVsInterfaceDrill\bin\Debug\AbstractClassVsInterfaceDrill.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\AbstractClassVsInterfaceDrill\AbstractClassVsInterfaceDrill\bin\Debug\AbstractClassVsInterfaceDrill.pdb
+C:\Users\yk123\documents\visual studio 2015\Projects\AbstractClassVsInterfaceDrill\AbstractClassVsInterfaceDrill\obj\Debug\AbstractClassVsInterfaceDrill.csprojResolveAssemblyReference.cache
+C:\Users\yk123\documents\visual studio 2015\Projects\AbstractClassVsInterfaceDrill\AbstractClassVsInterfaceDrill\obj\Debug\AbstractClassVsInterfaceDrill.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\AbstractClassVsInterfaceDrill\AbstractClassVsInterfaceDrill\obj\Debug\AbstractClassVsInterfaceDrill.pdb

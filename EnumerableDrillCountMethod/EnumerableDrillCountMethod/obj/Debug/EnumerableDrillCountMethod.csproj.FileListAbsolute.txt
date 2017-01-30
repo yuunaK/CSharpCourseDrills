@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\EnumerableDrillCountMethod\EnumerableDrillCountMethod\bin\Debug\EnumerableDrillCountMethod.exe.config
+c:\users\yk123\documents\visual studio 2015\Projects\EnumerableDrillCountMethod\EnumerableDrillCountMethod\obj\Debug\EnumerableDrillCountMethod.csprojResolveAssemblyReference.cache
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillCountMethod\EnumerableDrillCountMethod\bin\Debug\EnumerableDrillCountMethod.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillCountMethod\EnumerableDrillCountMethod\bin\Debug\EnumerableDrillCountMethod.pdb
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillCountMethod\EnumerableDrillCountMethod\obj\Debug\EnumerableDrillCountMethod.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillCountMethod\EnumerableDrillCountMethod\obj\Debug\EnumerableDrillCountMethod.pdb

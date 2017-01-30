@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\StringBuilderAndStringDrill\StringBuilderAndStringDrill\bin\Debug\StringBuilderAndStringDrill.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\StringBuilderAndStringDrill\StringBuilderAndStringDrill\bin\Debug\StringBuilderAndStringDrill.exe.config
+C:\Users\yk123\documents\visual studio 2015\Projects\StringBuilderAndStringDrill\StringBuilderAndStringDrill\obj\Debug\StringBuilderAndStringDrill.csprojResolveAssemblyReference.cache
+C:\Users\yk123\documents\visual studio 2015\Projects\StringBuilderAndStringDrill\StringBuilderAndStringDrill\obj\Debug\StringBuilderAndStringDrill.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\StringBuilderAndStringDrill\StringBuilderAndStringDrill\obj\Debug\StringBuilderAndStringDrill.pdb
+C:\Users\yk123\documents\visual studio 2015\Projects\StringBuilderAndStringDrill\StringBuilderAndStringDrill\bin\Debug\StringBuilderAndStringDrill.pdb

@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\StructDrill\StructDrill\bin\Debug\StructDrill.exe.config
+c:\users\yk123\documents\visual studio 2015\Projects\StructDrill\StructDrill\bin\Debug\StructDrill.exe
+c:\users\yk123\documents\visual studio 2015\Projects\StructDrill\StructDrill\bin\Debug\StructDrill.pdb
+c:\users\yk123\documents\visual studio 2015\Projects\StructDrill\StructDrill\obj\Debug\StructDrill.csprojResolveAssemblyReference.cache
+c:\users\yk123\documents\visual studio 2015\Projects\StructDrill\StructDrill\obj\Debug\StructDrill.exe
+c:\users\yk123\documents\visual studio 2015\Projects\StructDrill\StructDrill\obj\Debug\StructDrill.pdb

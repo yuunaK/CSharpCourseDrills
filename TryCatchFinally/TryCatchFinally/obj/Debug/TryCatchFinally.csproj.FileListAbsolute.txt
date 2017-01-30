@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+c:\users\yk123\documents\visual studio 2015\Projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csprojResolveAssemblyReference.cache
+c:\users\yk123\documents\visual studio 2015\Projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+c:\users\yk123\documents\visual studio 2015\Projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+c:\users\yk123\documents\visual studio 2015\Projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+c:\users\yk123\documents\visual studio 2015\Projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.pdb

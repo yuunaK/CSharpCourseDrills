@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\EnumerableDrillAnyMethod\EnumerableDrillAnyMethod\bin\Debug\EnumerableDrillAnyMethod.exe.config
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillAnyMethod\EnumerableDrillAnyMethod\bin\Debug\EnumerableDrillAnyMethod.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillAnyMethod\EnumerableDrillAnyMethod\bin\Debug\EnumerableDrillAnyMethod.pdb
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillAnyMethod\EnumerableDrillAnyMethod\obj\Debug\EnumerableDrillAnyMethod.csprojResolveAssemblyReference.cache
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillAnyMethod\EnumerableDrillAnyMethod\obj\Debug\EnumerableDrillAnyMethod.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\EnumerableDrillAnyMethod\EnumerableDrillAnyMethod\obj\Debug\EnumerableDrillAnyMethod.pdb

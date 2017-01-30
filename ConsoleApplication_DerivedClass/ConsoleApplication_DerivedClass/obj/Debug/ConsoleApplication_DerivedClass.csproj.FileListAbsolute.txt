@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\ConsoleApplication_DerivedClass\ConsoleApplication_DerivedClass\bin\Debug\ConsoleApplication_DerivedClass.exe.config
+C:\Users\yk123\documents\visual studio 2015\Projects\ConsoleApplication_DerivedClass\ConsoleApplication_DerivedClass\obj\Debug\ConsoleApplication_DerivedClass.csprojResolveAssemblyReference.cache
+C:\Users\yk123\documents\visual studio 2015\Projects\ConsoleApplication_DerivedClass\ConsoleApplication_DerivedClass\bin\Debug\ConsoleApplication_DerivedClass.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\ConsoleApplication_DerivedClass\ConsoleApplication_DerivedClass\bin\Debug\ConsoleApplication_DerivedClass.pdb
+C:\Users\yk123\documents\visual studio 2015\Projects\ConsoleApplication_DerivedClass\ConsoleApplication_DerivedClass\obj\Debug\ConsoleApplication_DerivedClass.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\ConsoleApplication_DerivedClass\ConsoleApplication_DerivedClass\obj\Debug\ConsoleApplication_DerivedClass.pdb

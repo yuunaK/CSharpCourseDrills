@@ -1,0 +1,2 @@
+System.DivideByZeroException: Attempted to divide by zero.
+   at WritingToLogDrill.Dividing.DividingMethod(Int32 num1, Int32 num2) in C:\Users\yk123\documents\visual studio 2015\Projects\WritingToLogDrill\WritingToLogDrill\Program.cs:line 24

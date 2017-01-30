@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\ValueTypeReferenceTypeDrill\ValueTypeReferenceTypeDrill\bin\Debug\ValueTypeReferenceTypeDrill.exe.config
+C:\Users\yk123\documents\visual studio 2015\Projects\ValueTypeReferenceTypeDrill\ValueTypeReferenceTypeDrill\bin\Debug\ValueTypeReferenceTypeDrill.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\ValueTypeReferenceTypeDrill\ValueTypeReferenceTypeDrill\bin\Debug\ValueTypeReferenceTypeDrill.pdb
+C:\Users\yk123\documents\visual studio 2015\Projects\ValueTypeReferenceTypeDrill\ValueTypeReferenceTypeDrill\obj\Debug\ValueTypeReferenceTypeDrill.csprojResolveAssemblyReference.cache
+C:\Users\yk123\documents\visual studio 2015\Projects\ValueTypeReferenceTypeDrill\ValueTypeReferenceTypeDrill\obj\Debug\ValueTypeReferenceTypeDrill.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\ValueTypeReferenceTypeDrill\ValueTypeReferenceTypeDrill\obj\Debug\ValueTypeReferenceTypeDrill.pdb
